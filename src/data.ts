@@ -52,14 +52,7 @@ export const team: TeamMember[] = [
     linkedin: 'https://www.linkedin.com/in/darshan-mali-6a740728b/',
     email: 'darsham7@gmail.com'
   }
-  {
-    id: '4',
-    name: 'Samarth Kuwar',
-    role: 'CIO & Co-Founder',
-    image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=400',
-    linkedin: 'https://www.linkedin.com/in/samarth-kuwar-96993422b/',
-    email: 'kuwarsamarth7@gmail.com'
-  }
+  
 ];
 
 export const testimonials: Testimonial[] = [
